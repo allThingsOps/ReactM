@@ -8,11 +8,7 @@ A simple and extendable React (TypeScript) boilerplate designed around the Lua S
 </div>
 
 <div align="center">
-
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
-![Discord](https://img.shields.io/discord/791854454760013827?label=Our%20Discord)
-![David](https://img.shields.io/david/project-error/fivem-react-boilerplate-lua)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=project-error/fivem-react-boilerplate-lua)](https://dependabot.com)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/allThingsOps/ReactM/tree/production.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/allThingsOps/ReactM/tree/production)
 </div>
 
 This repository is a basic boilerplate for getting started
